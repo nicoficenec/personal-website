@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>Your Name - Home Builder Portfolio</title>
+  <title>Nico Ficenec - Home Builder Portfolio</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
-    <p>Professional Home Builder</p>
+    <h1>Nico Ficenec</h1>
+    <p>Custom Home Builder</p>
   </header>
   <main>
     <h2>Portfolio</h2>
